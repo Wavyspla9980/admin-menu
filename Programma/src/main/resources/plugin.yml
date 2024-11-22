@@ -1,0 +1,4 @@
+name: Programma
+version: '${project.version}'
+main: scr.programma.Programma
+api-version: '1.20'
